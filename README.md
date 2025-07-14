@@ -2,6 +2,10 @@
 
 Um sistema completo de rastreamento e gestão de frotas desenvolvido com React, TypeScript e Tailwind CSS. Oferece monitoramento em tempo real, gestão de veículos, relatórios detalhados e portal dedicado para clientes.
 
+<img width="1902" height="906" alt="Captura de tela 2025-07-14 103414" src="https://github.com/user-attachments/assets/25e74e16-106c-4f7a-b2c0-bc8f10914c98" />
+<img width="1895" height="916" alt="Captura de tela 2025-07-14 103441" src="https://github.com/user-attachments/assets/f35537c5-e2af-41ca-ae37-f710a4fead9b" />
+<img width="1887" height="897" alt="Captura de tela 2025-07-14 103353" src="https://github.com/user-attachments/assets/053f1fad-0e2d-438b-a975-032221e303d6" />
+
 ## 🌟 Funcionalidades Principais
 
 ### 📊 Dashboard Administrativo
